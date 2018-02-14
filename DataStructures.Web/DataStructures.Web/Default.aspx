@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>My First Azure Project</h1>
+            <h2>Content</h2>
         </div>
     </form>
 </body>
