@@ -15,6 +15,7 @@
                 <ul>
                     <li>Arrays</li>
                     <li>Strings</li>
+                    <li>Linked Lists</li>
                 </ul>
             </div>
         </div>
